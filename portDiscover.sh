@@ -1,6 +1,8 @@
-#with code created by LouisStanica
+
 
 #/bin/bash
+
+#code created by LouisStanica
 
 # ./portScan.sh <ip-address>
 
